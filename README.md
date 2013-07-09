@@ -1,4 +1,4 @@
 fficxx-examples
 ===============
 
-simple examples of using fficxx
+This repository is for gathering simple examples of fficxx usage to provide a test suite for the fficxx library.
